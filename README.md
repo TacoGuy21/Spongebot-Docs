@@ -1,4 +1,4 @@
-# SpongBot-Docs
+# SpongeBot-Docs
 #### **What is SpongeBot?**
 
 A bot with Rps, Moderation, Giveaways, Polls,  GayRate, PpRate, Membercount, Broadcasting, Secrets, And More!
@@ -13,5 +13,46 @@ https://discord.com/oauth2/authorize?client_id=1122546881826922607&scope=applica
 
 BotGhost.
 
+#### ***Commands***
+
+/ban
+
+/kick
+
+/timeout
+
+/mute
+
+/rps
+
+/pp
+
+/gayrate
+
+/nuke (Joke, insults whoever uses it)
+
+/say
+
+/membercount
+
+/avatar
+
+/vc-kick
+
+/vc-ban
+
+/vc-move
+
+/vc-mute
+
+/secret
+
+/clearwarnings
+
+/poll
+
+/ping
+
+***AND MANY MORE...***
 
 
