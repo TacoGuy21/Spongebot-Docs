@@ -29,7 +29,7 @@ BotGhost.
 
 /gayrate
 
-/nuke (Joke, insults whoever uses it)
+/8ball
 
 /say
 
@@ -52,6 +52,12 @@ BotGhost.
 /poll
 
 /ping
+
+/quiz
+
+/embed
+
+/giveaway
 
 ***AND MANY MORE...***
 
