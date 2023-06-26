@@ -13,7 +13,7 @@ https://discord.com/oauth2/authorize?client_id=1122546881826922607&scope=applica
 
 BotGhost.
 
-#### ***Commands***
+### ***Commands***
 
 /ban
 
