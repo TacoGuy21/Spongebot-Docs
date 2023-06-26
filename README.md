@@ -1,2 +1,4 @@
 # Spongebot-Docs
-The docs for the spongebot discord bot
+##### **What is spongebot?**
+
+A bot with Rps, Moderation, Giveaways, Polls,  GayRate, PpRate, Membercount, Broadcasting, Secrets, And More!
